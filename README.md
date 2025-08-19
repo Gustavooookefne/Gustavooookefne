@@ -93,7 +93,7 @@ Meu objetivo? Construir uma carreira sólida e inovadora na tecnologia, trazendo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=gustavooookefne&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
+src="https://github-readme-stats.vercel.app/api?username=Gustavooookefne&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
         alt="Estatísticas do GitHub de Gustavooookefne" 
         height="200"
       />
