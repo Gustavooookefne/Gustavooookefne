@@ -1,13 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
+![topper](https://github.com/user-attachments/assets/dabf7d9c-4560-4694-8ef8-d9f262ed07e6)
 
-👨‍💻 Gustavo da Silva
-Desenvolvedor em Ascensão | Apaixonado por Inovação | Em Busca de Novos Desafios Tecnológicos
+<h1 align="center" style="color:#cccccc;">🦆 Gustavo da Silva</h1>
+<h3 align="center" style="color:#cccccc;">🚀 Desenvolvedor | Front-End & Back-End | WEG</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=cccccc&center=true&vCenter=true&width=650&lines=👨‍💻+Codando+Sonhos+do+zero;🔥+Apaixonado+por+tecnologia;💼+Trabalhando+na+WEG;🚀+Full+Stack+Developer" />
+</div>
 
 Oi, sou o Gustavo! Tenho 18 anos e sou de Jaraguá do Sul (SC). Atualmente, estou no último ano do Ensino Médio e sou Jovem Aprendiz na WEG, onde também estou cursando Técnico em Desenvolvimento de Sistemas.
 
 Sou fascinando pelo mundo da tecnologia e sempre em busca de aprender mais sobre desenvolvimento de software, banco de dados, lógica computacional e desenvolvimento web. A cada dia, me envolvo mais com esse universo, explorando novas ferramentas e técnicas.
-
-Meu objetivo? Construir uma carreira sólida e inovadora na tecnologia, trazendo soluções criativas e eficientes para os desafios do setor. 🌱
 
 
 <div align = "center">
@@ -51,4 +53,4 @@ Meu objetivo? Construir uma carreira sólida e inovadora na tecnologia, trazendo
 
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=footer"/>
+![footer](https://github.com/user-attachments/assets/6098bc3b-1a35-4df2-85a2-c33028e73512)
