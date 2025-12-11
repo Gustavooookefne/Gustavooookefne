@@ -15,9 +15,10 @@ Sou fascinando pelo mundo da tecnologia e sempre em busca de aprender mais sobre
 <div align = "center">
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavooookefne&show_icons=true&bg_color=000000&title_color=004B9B&text_color=FFFFFF&icon_color=004B9B&hide_border=false&include_all_commits=false&count_private=false" width="400"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavooookefne&layout=compact&bg_color=000000&title_color=004B9B&text_color=FFFFFF&hide_border=false" width="400"/>
+
+<img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api?username=gustavooookefne&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="400"/>
+
+<img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api/top-langs/?username=gustavooookefne&layout=compact&theme=dark" width="400"/>
 
 </p>
 
