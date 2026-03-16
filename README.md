@@ -54,4 +54,8 @@ Sou fascinando pelo mundo da tecnologia e sempre em busca de aprender mais sobre
 
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=gustavooookefne&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
+</p>
+
 ![footer](https://github.com/user-attachments/assets/6098bc3b-1a35-4df2-85a2-c33028e73512)
