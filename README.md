@@ -49,9 +49,8 @@ Sou fascinando pelo mundo da tecnologia e sempre em busca de aprender mais sobre
 <br>
 <br>
 
-<p align = 'center'>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gustavooookefne&background=000000&ring=004B9B&fire=FFFFFF&currStreakLabel=004B9B&sideNums=FFFFFF&currStreakNum=004B9B&sideLabels=004B9B&dates=FFFFFF&hide_border=false" width="500"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gustavooookefne&theme=dark&background=000000&ring=004B9B&fire=FFFFFF&currStreakLabel=004B9B&sideNums=FFFFFF&currStreakNum=004B9B&sideLabels=004B9B&dates=FFFFFF&hide_border=false&exclude_days=Sat,Sun" height="180em"/>
 </p>
 
 <p align="center">
