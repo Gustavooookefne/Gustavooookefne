@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=cccccc&center=true&vCenter=true&width=650&lines=👨‍💻+Codando+Sonhos+do+zero;🔥+Apaixonado+por+tecnologia;💼+Trabalhando+na+WEG;🚀+Full+Stack+Developer" />
 </div>
 
-Oi, sou o Gustavo! Tenho 18 anos e sou de Jaraguá do Sul (SC). Atualmente, Finalizei o ano do Ensino Médio e sou Jovem Aprendiz na WEG, onde também estou cursando Técnico em Desenvolvimento de Sistemas.
+Oi, sou o Gustavo! Tenho 19 anos e sou de Jaraguá do Sul (SC). Atualmente, Finalizei o ano do Ensino Médio e sou Jovem Aprendiz na WEG, onde também estou cursando Técnico em Desenvolvimento de Sistemas.
 
 Sou fascinando pelo mundo da tecnologia e sempre em busca de aprender mais sobre desenvolvimento de software, banco de dados, lógica computacional e desenvolvimento web. A cada dia, me envolvo mais com esse universo, explorando novas ferramentas e técnicas.
 
